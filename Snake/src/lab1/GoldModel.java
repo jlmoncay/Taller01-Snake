@@ -213,6 +213,7 @@ public class GoldModel extends GameModel {
 		// Add a new coin (simulating moving one coin)
 		addCoin();
 		addCoin();
+		addCoin();
 
 	}
 
