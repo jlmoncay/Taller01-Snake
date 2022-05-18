@@ -17,7 +17,7 @@ import javax.swing.JPanel;
  */
 public class GUIView extends JPanel {
 	/** The "Start Game" button */
-	private final JButton startGameButton;
+	private final JButton jugarButton;
 
 	/** The chooser (also called drop-down menu) with names of different games */
 	private final JComboBox gameChooser;
